@@ -99,4 +99,25 @@ Contour plots of pressure, velocity, and streamlines around each flap configurat
   steep landing approaches.
 - The **Plain flap** offered the simplest performance trade-off, with the lowest gains in Cl.
 
-*(Adjust these with your actual findings)*
+---
+
+## What Is NOT Included
+
+Per confidentiality agreement with the internship company:
+- ❌ SLDPRT / SolidWorks part files
+- ❌ Any proprietary 3D CAD geometry
+- ❌ Company-specific design parameters
+
+---
+
+## Skills Demonstrated
+
+`Ansys Fluent` · `RANS CFD` · `Aerodynamic Analysis` · `High-Lift Device Design`
+`Mesh Generation` · `Post-Processing` · `Fixed-Wing UAV` · `Engineering Reporting`
+
+---
+
+## Author
+
+**Avicenna Najib Mahmud**
+Aerospace / Mechanical Engineering Intern — 2022
