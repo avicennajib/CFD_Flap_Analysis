@@ -69,10 +69,10 @@ The following plots compare all four flap types at both deflection angles:
 > 📁 See `/results/` for all plots.
 
 #### Sample — Cl vs α (Take-off, δf = 20°)
-![Cl vs AoA Takeoff](results/cl_vs_aoa_takeoff.png)
+![Cl vs AoA Takeoff](results/graphs/cl_vs_aoa_takeoff.png)
 
 #### Sample — L/D vs α (Landing, δf = 40°)
-![LD vs AoA Landing](results/ld_vs_aoa_landing.png)
+![LD vs AoA Landing](results/graphs/ld_vs_aoa_landing.png)
 
 ---
 
