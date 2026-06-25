@@ -82,10 +82,10 @@ Contour plots of pressure, velocity, and streamlines around each flap configurat
 
 | Configuration | Take-off (δf = 20°) | Landing (δf = 40°) |
 |---------------|---------------------|---------------------|
-| Plain Flap    | ![](results/vis/plain_20.png) | ![](results/vis/plain_40.png) |
-| Split Flap    | ![](results/vis/split_20.png) | ![](results/vis/split_40.png) |
-| Slotted Flap  | ![](results/vis/slotted_20.png) | ![](results/vis/slotted_40.png) |
-| Fowler Flap   | ![](results/vis/fowler_20.png) | ![](results/vis/fowler_40.png) |
+| Plain Flap    | ![](results/vis/plain_20.jpg) | ![](results/vis/plain_40.jpg) |
+| Split Flap    | ![](results/vis/split_20.jpg) | ![](results/vis/split_40.jpg) |
+| Slotted Flap  | ![](results/vis/slotted_20.jpg) | ![](results/vis/slotted_40.jpg) |
+| Fowler Flap   | ![](results/vis/fowler_20.jpg) | ![](results/vis/fowler_40.jpg) |
 
 ---
 
