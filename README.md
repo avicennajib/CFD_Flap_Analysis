@@ -104,9 +104,9 @@ Contour plots of pressure, velocity, and streamlines around each flap configurat
 ## What Is NOT Included
 
 Per confidentiality agreement with the internship company:
-- ❌ SLDPRT / SolidWorks part files
-- ❌ Any proprietary 3D CAD geometry
-- ❌ Company-specific design parameters
+- SLDPRT / SolidWorks part files
+- Any proprietary 3D CAD geometry
+- Company-specific design parameters
 
 ---
 
